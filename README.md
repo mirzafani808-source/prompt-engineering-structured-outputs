@@ -1,6 +1,6 @@
 # Prompt Engineering & Structured Outputs — Support Ticket Triage
 
-Turns raw customer support tickets into **validated JSON** using an LLM (Groq free tier, Llama 3.3 70B).
+Turns raw customer support tickets into **validated JSON** using an LLM (Groq free tier, openai/gpt-oss-120b).
 
 ## Features
 - Bad prompt vs improved prompt comparison on the same input
